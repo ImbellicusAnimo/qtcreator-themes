@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Dusk (Kopie)">
+<style-scheme version="1.0" name="Dusk 2.7">
   <style name="Text" background="#282b35"/>
   <style name="Link" foreground="#3572c6" bold="true" italic="true"/>
   <style name="Selection" foreground="#ffffff" background="#384257"/>
