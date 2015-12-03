@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="Twilight 2.7">
-  <style name="Text" background="#1f1d1c"/>
+  <style name="Text" foreground="#f0f0f0" background="#1f1d1c"/>
   <style name="Link" foreground="#88cee7" italic="true"/>
   <style name="Selection" foreground="#dcdcdc" background="#383e42"/>
   <style name="LineNumber" foreground="#505050"/>
